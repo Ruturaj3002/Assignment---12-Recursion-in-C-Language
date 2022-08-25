@@ -17,7 +17,7 @@ int main()
 void even(int a)
 {
 
-    if (a >= 1)
+    if (a >= 0)
     {
         even(a - 1);
 
