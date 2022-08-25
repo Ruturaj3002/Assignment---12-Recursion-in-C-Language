@@ -18,7 +18,7 @@ void evenre(int a)
 
 {
 
-    if (a >= 1)
+    if (a >= 0)
     {
         printf("%d ", a * 2);
 
